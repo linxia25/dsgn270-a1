@@ -25,7 +25,7 @@ DJI is the world's largest drone manufacturer. It's website is also one of my fa
 ### Overall
 The overall impression the homepage gives me is brief and generous and is opened quickly even if there are a lot of pictures on the homepage. As a professional manufacturer of drones and sports shooting equipment, DJI's products have good industrial design, so using pictures to convey product information can quickly catch users' eyes.
 
-###Content Scannable
+### Content Scannable
 - I think the content scannable is very good, even though the designer does not use the **Z-Pattern** layout or **zig-zag pattern** layout.
 
 - Due to the symmetrical layout of the page, visitors will use top-to-bottom scanning. At the same time, DJI puts the most important content on the first and second screens. In my opinion, designers do not want users to scan web pages, but rather want users to see what they get when they open the homepage.
@@ -43,7 +43,7 @@ The overall impression the homepage gives me is brief and generous and is opened
 
 - The pictures of homepage are displayed in two per line. If it can be modified to display three per line, it will be more attractive, just like the pictures on online store pages.
 
-##Mobile Friendliness
+## Mobile Friendliness
 - When using a mobile phone to open the DJI website, the content of the website is responsive and all the content are parity.
 
 - In addition to responsive,  the sticky navigation is always at the top of the page so that visitors can operate at any time during the visit.
